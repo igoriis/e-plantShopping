@@ -197,6 +197,10 @@ body {
 }
 /* ProductList.css */
 
+.product-button.disabled {
+background-color: lightgray;
+}
+
 .product-button {
     background-color: #4CAF50; /* Green */
     border: none;
